@@ -1,0 +1,5 @@
+# Project-local Codex settings for this trusted repository.
+# Coding conventions belong in AGENTS.md; reusable workflows belong in .codex/skills.
+
+[features.multi_agent_v2]
+enabled = true
